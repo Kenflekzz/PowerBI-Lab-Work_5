@@ -6,4 +6,4 @@
 
 ## PDF Documentation
 
-[click here to view PDF]()
+[click here to view PDF](./Camasura_Kenneth_LW5.pdf)
